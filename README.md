@@ -27,6 +27,8 @@
 	2)Edit : Update your filed	
 	
 	3)Delete : Delete your filed
+	
+9)Search Project
 
 All the above implementation is created using React
 
