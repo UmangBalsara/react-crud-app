@@ -1,5 +1,7 @@
 # react-crud-app
 
+Project Details:-
+
 1)Add Routing using react-router-dom.
 
 2)Add lazy loading and suspense fallback.
